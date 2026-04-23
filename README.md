@@ -1,6 +1,10 @@
 # ProjectVault — Idea Index
 
-Hobby project brainstorm and planning space. See [[CLAUDE]] for the full workflow.
+A Claude Code harness for managing personal hobby project ideas — from raw spark to implementation-ready spec. Fork this repo to get your own AI-assisted brainstorm and design workspace.
+
+Each idea lives in its own folder under `ideas/` and progresses through a structured workflow: capture → design → spec → repo handoff. Claude handles the structure; you handle the thinking.
+
+> **Private repo note:** if you're forking this to sync across devices, remove the `ideas/*/` line from `.gitignore` so your idea folders are tracked. The `_shared/` personal files will still be excluded — add them back explicitly if you want those synced too.
 
 ---
 
