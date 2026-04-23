@@ -1,0 +1,5 @@
+# Ignore all idea subfolders, but keep the ideas/ folder itself
+ideas/*/
+_shared/Prompter-Profile.md
+_shared/Stack-Preferences.md
+_shared/Workflow-Prompts-Log.md
